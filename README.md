@@ -22,6 +22,9 @@ In order to move your files (`.dxf`) into your next software (where it will be l
 
 This is where your design is laid out for the laser cutter to cut. 
 
+- Object, Group, Transform
+- Edit, Resize Page to Selection 
+
 # Laser Cutter settings 
 
 Tested on the laser cutter at the Boulder, Colorado Solid State Depot Makerspace. 
