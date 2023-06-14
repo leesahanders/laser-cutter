@@ -25,6 +25,11 @@ This is where your design is laid out for the laser cutter to cut.
 - Object, Group, Transform
 - Edit, Resize Page to Selection 
 
+# All about tabs
+
+3.4mm tab thicknesses work with 1/8 inch wood. 
+
+
 # Laser Cutter settings 
 
 Tested on the laser cutter at the Boulder, Colorado Solid State Depot Makerspace. 
