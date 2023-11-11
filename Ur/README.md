@@ -17,7 +17,7 @@ Parametric box with lid: <https://www.thingiverse.com/thing:1203203?fbclid=IwAR1
 
 Hinged lid with beautiful sides: <https://www.printables.com/model/117197-game-of-ur-laser-cut-box> 
 
-
+Ur board for sale with drawer: <https://www.mastersofgames.com/cat/board/ur.htm> 
 
 
 
